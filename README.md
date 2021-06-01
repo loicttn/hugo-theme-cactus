@@ -93,8 +93,6 @@ weight = 4
   mainSection = "posts"
   mainSections = ["", ""]
 
-  letterSection = "letters"
-  letterSections = ["letters"]
 ```
 
 - Show only the 5 most recent posts (default)
