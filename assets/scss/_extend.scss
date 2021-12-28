@@ -100,11 +100,9 @@ dt {
 }
 table {
   width: 100%;
-  border-collapse: collapse;
   text-align: left;
-  font-size: $font-size - 2px;
   overflow: auto;
-  display: block;
+  margin-bottom: 10px;
 }
 th {
   padding: 8px;
